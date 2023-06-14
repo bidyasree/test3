@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.my-bg{
+    background-color: yellowgreen !important;
+}
+
+.mybtn:hover{
+    background-color: gray !important;
+    color: black;
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+    border-radius: 50%;
+}
+
+.c1{
+    background-color: azure;
+}
+
+.c2{
+    background-color: aquamarine;
+}
+
+.c3{
+    background-color: azure;
+}
+
+.c4{
+    background-color: aquamarine;
+}
